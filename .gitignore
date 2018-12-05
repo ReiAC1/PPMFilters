@@ -1,0 +1,16 @@
+
+.vs/PPMFilters/v15/.suo
+*.db
+*.opendb
+*.ipch
+*.ppm
+*.log
+*.tlog
+*.obj
+*.idb
+*.pdb
+*.vcxproj
+*.exe
+*.ilk
+PPMFilters/PPMFilters.vcxproj.filters
+PPMFilters/PPMFilters.vcxproj.user
